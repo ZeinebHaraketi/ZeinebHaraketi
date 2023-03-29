@@ -24,16 +24,14 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/zeineb-haraketi-465b2b1b9/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="zeineb haraketi" height="30" width="40" /></a>
+      alt="zeineb haraketi" height="30" width="40" />
+  </a>
+     <a href="https://www.hackerrank.com/zeineb_haraketi" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="Zeineb Haraketi" height="30" width="40" /></a>
   
  </p>
  
- <p>
-  <a href="https://www.hackerrank.com/zeineb_haraketi" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="zeinebharaketi" height="30" width="40" /></a>
-  
-</p>
 
 <br>
 
