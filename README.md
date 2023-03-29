@@ -9,7 +9,7 @@
 </h1>
 
 <center>
-  <img align="center" height="270px" width="250px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+  <img align="center" height="270px" width="250px" alt="GIF" src="https://giphy.com/clips/guardian-QtD1ZgBYzYi3BmRv7Q.gif" />
 </center>
 
 <br></br>
