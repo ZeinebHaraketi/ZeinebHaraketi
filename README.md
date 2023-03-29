@@ -8,10 +8,8 @@
   </a>
 </h1>
 
-<center>
 ![](webdev.gif)
  
-</center>
 
 <br></br>
 
