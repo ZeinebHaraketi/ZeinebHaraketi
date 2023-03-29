@@ -8,7 +8,9 @@
   </a>
 </h1>
 
-<img align="center" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<center>
+  <img align="center" height="270px" width="250px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</center>
 
 <br></br>
 
