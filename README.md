@@ -1,8 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zeineb Haraketi</h1>
-<h3 align="center">I'm currently a 4th year Student at ESPRIT and I am specialized in Web Developpement🌟.</h3>
 
-<br>
+<br></br>
 
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+- :school: I'm currently 4th year student at **ESPRIT University** 🌟.
+- :books: My major is **Web Developpement**
+- :monocle_face: I'm interested in coding, reading books, listening to music and writing poetry
+- :sunglasses: My quote is **"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You      use a combination of science, art, and craft to determine what to do with them" --Andrew Hunt*** 
+
+
+<br></br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
