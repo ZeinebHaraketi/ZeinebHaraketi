@@ -51,18 +51,19 @@
 
 <br>
 ### 🛢️ Databases
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
 
-<h3 align="left">Framework</h3>
-<p align="left">
+![Sql](https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
+![MongoDB](http://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
+
+<br>
+### 💻 Frameworks
 ![Symfony](https://img.shields.io/badge/-Symfony-7f52ff?style=flat-square&logo=symfony&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-dd3734?style=flat-square&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2a65f1?style=flat-square&logo=react&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
 ![QT](https://img.shields.io/badge/-QT-0fb62d?style=flat-square&logo=Qt&logoColor=white)
-</p>
+
 
 <h3 align="left">Tools</h3>
 <p align="left">
