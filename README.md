@@ -51,7 +51,7 @@
 
 <br>
 
- 🛢️ ### Databases
+ 🛢️ ###Databases
 
 ![Sql](https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
