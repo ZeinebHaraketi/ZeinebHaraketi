@@ -9,7 +9,7 @@
 </h1>
 
 <center>
-  <img align="center" height="270px" width="250px" alt="GIF" src="https://giphy.com/embed/QtD1ZgBYzYi3BmRv7Q/video" />
+  <img align="center" height="270px" width="250px" alt="GIF" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" />
  
 </center>
 
