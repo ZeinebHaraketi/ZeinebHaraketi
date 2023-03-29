@@ -9,7 +9,9 @@
 </h1>
 
 <p align="center">
-![](webdev.gif)
+<!-- ![](webdev.gif) -->
+    <img src="webdev.gif" alt="animated" />
+
 </p>
  
 
