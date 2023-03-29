@@ -56,8 +56,9 @@
 ![Sql](https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
 
-<br>
+<br></br>
 ### 💻 Frameworks
+
 ![Symfony](https://img.shields.io/badge/-Symfony-7f52ff?style=flat-square&logo=symfony&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-dd3734?style=flat-square&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2a65f1?style=flat-square&logo=react&logoColor=white)
