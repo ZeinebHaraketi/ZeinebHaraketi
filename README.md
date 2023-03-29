@@ -65,9 +65,8 @@
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
 ![QT](https://img.shields.io/badge/-QT-0fb62d?style=flat-square&logo=Qt&logoColor=white)
-
-
 <br></br>
+
 ### 🛠️ Tools/IDE
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
@@ -97,4 +96,4 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-Credit are given to: [Zeineb Haraketi](https://github.com/ZeinebHaraketi)
+Credits are given to: [Zeineb Haraketi](https://github.com/ZeinebHaraketi)
