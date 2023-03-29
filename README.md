@@ -8,7 +8,9 @@
   </a>
 </h1>
 
+<p align="center">
 ![](webdev.gif)
+</p>
  
 
 <br></br>
