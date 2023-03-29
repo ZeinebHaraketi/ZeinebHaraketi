@@ -35,9 +35,8 @@
 
 <br>
 
-<h3 align="left">Languages</h3>
-<p align="left"> 
-http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white
+### 🛠 Languages
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
@@ -47,9 +46,9 @@ http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=w
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 ![Linux](http://img.shields.io/badge/-Linux-fad134?style=flat-square&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-2a65f1?style=flat-square&logo=cplusplus&logoColor=white)
-![NodeJS](img.shields.io/badge/-NodeJS-0ecb30?style=flat-square&logo=nodejs&logoColor=white)
-!(ExpressJS)(https://img.shields.io/badge/-ExpressJS-fcd400?style=flat-square&logo=express&logoColor=black)
- </p>
+![NodeJS](http://img.shields.io/badge/-NodeJS-0ecb30?style=flat-square&logo=nodejs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-fcd400?style=flat-square&logo=express&logoColor=black)
+
 <br>
 <h3 align="left">Databases</h3>
 <p align="left">
