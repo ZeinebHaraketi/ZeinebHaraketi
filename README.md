@@ -37,7 +37,7 @@
 
 <h3 align="left">Languages</h3>
 <p align="left"> 
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
