@@ -50,7 +50,7 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-fcd400?style=flat-square&logo=express&logoColor=black)
 
 <br>
-### 🛢 Databases
+### 🛢️ Databases
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
 
