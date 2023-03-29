@@ -103,4 +103,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/ZeinebHaraketi)
+
 Credits are given to: [Zeineb Haraketi](https://github.com/ZeinebHaraketi)
