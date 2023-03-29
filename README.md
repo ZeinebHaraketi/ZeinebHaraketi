@@ -51,7 +51,7 @@
 
 <br>
 
- 🛢️ ###Databases
+ ### 🛢️ Databases
 
 ![Sql](https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
@@ -66,14 +66,13 @@
 ![QT](https://img.shields.io/badge/-QT-0fb62d?style=flat-square&logo=Qt&logoColor=white)
 
 
-<h3 align="left">Tools</h3>
-<p align="left">
+<br></br>
+### 🛠️ Tools/IDE
+
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-
-</p>
 
 
 
