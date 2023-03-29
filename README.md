@@ -35,7 +35,7 @@
 
 <br>
 
-### 🛠 Languages
+### 👨‍💻 Languages
 ![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
@@ -50,11 +50,9 @@
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-fcd400?style=flat-square&logo=express&logoColor=black)
 
 <br>
-<h3 align="left">Databases</h3>
-<p align="left">
+### 🛢 Databases
 ![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
-</p>
 
 <h3 align="left">Framework</h3>
 <p align="left">
