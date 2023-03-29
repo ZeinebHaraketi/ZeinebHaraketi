@@ -10,7 +10,7 @@
 
 <p align="center">
 <!-- ![](webdev.gif) -->
-    <img src="webdev.gif" alt="animated" />
+    <img src="webdev.gif" alt="animated" width="320px" height="300px"/>
 
 </p>
  
