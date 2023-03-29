@@ -9,8 +9,8 @@
 </h1>
 
 <center>
-<!--   <img align="center" height="270px" width="250px" alt="GIF" src="https://giphy.com/embed/QtD1ZgBYzYi3BmRv7Q/video"" /> -->
-  <div style="width:100%"><div style="height:0;padding-bottom:56.25%;position:relative;width:100%"><iframe allowfullscreen="" frameBorder="0" height="100%" src="https://giphy.com/embed/QtD1ZgBYzYi3BmRv7Q/video" style="left:0;position:absolute;top:0" width="100%"></iframe></div></div>
+  <img align="center" height="270px" width="250px" alt="GIF" src="https://giphy.com/embed/QtD1ZgBYzYi3BmRv7Q/video" />
+ 
 </center>
 
 <br></br>
