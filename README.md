@@ -72,6 +72,7 @@
 ![C++](https://img.shields.io/badge/-C++-2a65f1?style=flat-square&logo=cplusplus&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-0ecb30?style=flat-square&logo=nodejs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-fcd400?style=flat-square&logo=express&logoColor=black)
+![R](https://img.shields.io/badge/-blue?style=flat-square&logo=R)
 
 <br>
 
@@ -79,6 +80,7 @@
 
 ![Sql](https://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-0fb62d?style=flat-square&logo=mongodb&logoColor=white)
+![H2](https://img.shields.io/badge/-H2-blue?style=flat-square&logo=H2)
 
 <br></br>
 ### 💻 Frameworks
@@ -87,6 +89,7 @@
 ![Laravel](https://img.shields.io/badge/-laravel-white?style=flat-square&logo=laravel)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-dd3734?style=flat-square&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2a65f1?style=flat-square&logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/-django-green?style=flat-square&logo=django)
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
 ![Springboot](http://img.shields.io/badge/-Springboot-629e3a?style=flat-square&logo=springboot&logoColor=white)
 ![QT](https://img.shields.io/badge/-QT-0fb62d?style=flat-square&logo=Qt&logoColor=white)
@@ -109,6 +112,9 @@
 ![Eclipse](http://img.shields.io/badge/-Eclipse-41347e?style=flat-square&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+![Jira](https://img.shields.io/badge/-jira-blue?style=flat-square&logo=jira)
+![Slack](https://img.shields.io/badge/-slack-purple?style=flat-square&logo=slack)
+![Trello](https://img.shields.io/badge/-trello-blue?style=flat-square&logo=trello)
 
 
 
