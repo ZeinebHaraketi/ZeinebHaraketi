@@ -20,7 +20,7 @@
 <br></br>
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-- :school: I'm currently 4th year student at **ESPRIT University** 🌟.
+- :school: I'm currently 5th year student at **ESPRIT University** 🌟.
 - :books: My major is **Web Developpement**
 - :monocle_face: I'm interested in coding, reading books, listening to music and writing poetry
 - :sunglasses: My quote is **"In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You      use a combination of science, art, and craft to determine what to do with them" --Andrew Hunt*** 
@@ -84,6 +84,7 @@
 ### 💻 Frameworks
 
 ![Symfony](https://img.shields.io/badge/-Symfony-7f52ff?style=flat-square&logo=symfony&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-white?style=flat-square&logo=laravel)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-dd3734?style=flat-square&logo=angularjs&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-2a65f1?style=flat-square&logo=react&logoColor=white)
 ![Spring](http://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=white)
@@ -91,6 +92,17 @@
 ![QT](https://img.shields.io/badge/-QT-0fb62d?style=flat-square&logo=Qt&logoColor=white)
 <br></br>
 
+### 💻 DevOps
+![Jenkins](https://img.shields.io/badge/-Jenkins-white?style=flat-square&logo=jenkins)
+![Vagrant](https://img.shields.io/badge/-vagrant-blue?style=flat-square&logo=vagrant)
+![Docker](https://img.shields.io/badge/-docker-white?style=flat-square&logo=docker)
+![SonarQube](https://img.shields.io/badge/-sonarqube-white?style=flat-square&logo=sonarqube)
+![Nexus](https://img.shields.io/badge/-nexus-blue?style=flat-square&logo=nexus)
+![JUnit](https://img.shields.io/badge/-JUnit-white?style=flat-square&logo=JUnit5)
+![Grafana](https://img.shields.io/badge/-grafana-white?style=flat-square&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-prometheus-white?style=flat-square&logo=prometheus)
+
+<br></br>
 ### 🛠️ Tools/IDE
 
 ![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
